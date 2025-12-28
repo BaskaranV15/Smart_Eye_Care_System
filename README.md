@@ -38,12 +38,16 @@ Simple and user-friendly interface
 #### Output1 - Name of the output
 
 
+<img width="988" height="402" alt="image" src="https://github.com/user-attachments/assets/27c3e37b-f9b5-4bfb-bd3a-feb509a8c510" />
 
 #### Output2 - Name of the output
 
+<img width="987" height="373" alt="image" src="https://github.com/user-attachments/assets/3b52c331-669c-475a-b24a-a8faa19d5632" />
 
 Detection Accuracy: 76.7%
-Note: These metrics can be customized based on your actual performance evaluations.
+<img width="1036" height="525" alt="image" src="https://github.com/user-attachments/assets/c24398c3-5970-450c-889f-3563fa5000e1" />
+
+
 
 
 ## Results and Impact
